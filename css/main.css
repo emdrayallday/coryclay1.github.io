@@ -1,13 +1,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600;700&display=swap');
-@import "reset.css";
-@import "langin-page/header.css";
-@import "langin-page/top-jumbo.css";
-@import "langin-page/design-by.css";
-@import "langin-page/color-collection.css";
-@import "langin-page/blue-print.css";
-@import "langin-page/latest.css";
-@import "langin-page/footer.css";
+@import "./reset.css";
+@import "./header.css";
+@import "./top-jumbo.css";
+@import "./design-by.css";
+@import "./color-collection.css";
+@import "./blue-print.css";
+@import "./latest.css";
+@import "./footer.css";
 
 
 
